@@ -42,6 +42,8 @@ namespace Pogram_day_2_2
 
             Console.ReadLine();
 
+            /*tas ir ar'i viss*/
+
         }
     }
 }
